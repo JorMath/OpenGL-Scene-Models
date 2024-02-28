@@ -1,0 +1,11 @@
+Model Information:
+* title:	Test Rocket
+* source:	https://sketchfab.com/3d-models/test-rocket-875d5e3a190b41de9dcc75c959273853
+* author:	Joe_Y (https://sketchfab.com/NeonSwager)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Test Rocket" (https://sketchfab.com/3d-models/test-rocket-875d5e3a190b41de9dcc75c959273853) by Joe_Y (https://sketchfab.com/NeonSwager) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
